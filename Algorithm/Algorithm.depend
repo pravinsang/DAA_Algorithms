@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1663034416 source:d:\algorithm\insertionsort.c
+
+1663639105 source:d:\algorithm\application.c
+	<stdio.h>
+	"sorting.h"
+	"swap.h"
+
+1663639098 d:\algorithm\sorting.h
+
+1663038541 source:d:\algorithm\selectionsort.c
+
+1663038740 source:d:\algorithm\swap.c
+
+1663038666 d:\algorithm\swap.h
+
+1663637006 source:d:\algorithm\merge.c
+	<limits.h>
+
